@@ -1,7 +1,7 @@
 # Desafio AuESoftware_Estagio_TI - Jean Gonçalves Lima
 
 ## DESCRIÇÃO
-Esse repositório foi criado para o desenvolvimento da solução do desafio proposto pela AuE Software, que envolve a implementação de um sistema para Cadastro de contatos com as consulta, inserção, Alteração e Exclusão de contatos do Banco de Dados. A solução foi desenvolvida em C# e utiliza as tecnologias .NET, Windows Form e Vusual Studio da Microsoft.
+Esse repositório foi criado para o desenvolvimento da solução do desafio proposto pela AuE Software, que envolve a implementação de um sistema para Cadastro de contatos com as consulta, inserção, Alteração e Exclusão de contatos do Banco de Dados.
 
 ## COMO TESTAR A SOLUÇÃO
 Para testar a solução em sua própria máquina, sugiro que siga os passos abaixo:
