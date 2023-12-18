@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AueSoftware_Estagio_TI", "AueSoftware_Estagio_TI\AueSoftware_Estagio_TI.csproj", "{870F4F7B-2731-44D9-B02E-323AF2108855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870F4F7B-2731-44D9-B02E-323AF2108855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870F4F7B-2731-44D9-B02E-323AF2108855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870F4F7B-2731-44D9-B02E-323AF2108855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870F4F7B-2731-44D9-B02E-323AF2108855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A36260-D016-4B20-92EA-7E2DD5F36B87}
+	EndGlobalSection
+EndGlobal
